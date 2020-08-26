@@ -1,4 +1,4 @@
-https://www.newline.co/@dmitryrogozhny/how-to-show-carousel-in-react-applications-with-react-slick--07445c23
+﻿https://www.newline.co/@dmitryrogozhny/how-to-show-carousel-in-react-applications-with-react-slick--07445c23
 https://kenwheeler.github.io/slick/
 https://github.com/kenwheeler/slick
 
@@ -39,3 +39,6 @@ https://habr.com/ru/company/otus/blog/456124/
 
 охуенно про стили
 https://www.taniarascia.com/overview-of-css-concepts/#css-properties
+
+
+sss
