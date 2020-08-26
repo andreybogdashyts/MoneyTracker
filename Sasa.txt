@@ -1,0 +1,41 @@
+https://www.newline.co/@dmitryrogozhny/how-to-show-carousel-in-react-applications-with-react-slick--07445c23
+https://kenwheeler.github.io/slick/
+https://github.com/kenwheeler/slick
+
+D:\sasa\andrey1\node_modules\slick-carousel\slick\slick-theme.css
+node_modules\slick-carousel\slick\slick.css
+
+npm install react-slick --save
+
+npm install slick-carousel --save
+import "~slick-carousel/slick/slick.css"; 
+import "~slick-carousel/slick/slick-theme.css";
+
+npm install --save @types/slick-carousel
+npm install --save @types/react-slick
+npm install --save @types/react-scroll
+
+npm install sass-loader -D
+npm install node-sass -D
+
+npm install @material-ui/styles
+npm i @types/jquery
+npm remove style-loader && npm install --save-dev style-loader
+
+https://dev.to/davidcetinkaya/setting-up-a-react-image-carousel-with-lazy-load-3bi6
+
+npm install materialize-css@next
+npm install -D webpack webpack-cli
+npm i raw-loader
+npm install style-loader css-loader less-loader --save-dev
+npm install --save aphrodite
+
+npm install --save react-scrolling-nav
+npm install @types/react-scrolling-nav
+
+
+пока не понимаю
+https://habr.com/ru/company/otus/blog/456124/
+
+охуенно про стили
+https://www.taniarascia.com/overview-of-css-concepts/#css-properties
